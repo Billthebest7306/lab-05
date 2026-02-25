@@ -2,8 +2,8 @@
 
 ## Student Details
 
-- **Full Name:** `<Bilal Awan>`
-- **CCID:** `<27100187>`
+- **Full Name:** `Bilal Awan`
+- **CCID:** `27100187`
 
 ## References and Resources
 
@@ -15,3 +15,6 @@ List any resources used here, or simply put `N/A` if not applicable.
 | ------------ | -------- |
 | `<example1>` | `<CCID>` |
 | `<example2>` | `<CCID>` |
+
+## NOTE:
+To delete cities, long press the city that you want to delete.
